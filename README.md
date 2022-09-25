@@ -1,6 +1,6 @@
 # A Kernel Seedling
 
-This kernel module shows the current number of processes that are Executening.
+This kernel module shows the current number of processes that are executing.
 
 ## Building
 
